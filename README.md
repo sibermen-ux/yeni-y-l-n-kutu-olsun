@@ -217,9 +217,6 @@
       Mazeretim sensin,
       Her duyguma sebep.
     </div>
-
-    
-
     <div class="poem purple">
       Sen gülünce dünya biraz daha güzel bir yer oluyor. 🌸<br><br>
       Gözlerinin parıltısı bile geceyi aydınlatır. ✨<br><br>
@@ -237,8 +234,5 @@
       Seni düşünmeden geçen bir gün, eksik bir gün. 💌
     </div>
 
-  </section>
-
-</body>
-</html>
+  
 
