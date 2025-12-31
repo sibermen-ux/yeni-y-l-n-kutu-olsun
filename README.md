@@ -164,7 +164,7 @@
       Sana olan özlemim gibi, karanlığı delip geçen.
       Sen o turuncu şafaksın, gecenin bittiği yerde,
       Ben ise seni bekleyen siyah bir bulut, bu dertli şehirde.
-    </div<div class="poem eternal-love"> Seninle başladı ruhumda en güzel bahar, Varlığın kalbimde sonsuz bir huzur saklar. </div>
+    <div class="poem eternal-love"> Seninle başladı ruhumda en güzel bahar, Varlığın kalbimde sonsuz bir huzur saklar. </div>
     <div class="poem heart-beat"> Her atışında kalbim sadece adını heceler, Seninle aydınlanır en karanlık geceler. </div> 
     <div class="poem gold-sun"> Güneşten daha sıcak bir gülüşün var senin, Cenneti bulmuş gibiyim yanında, her anındayım teninin. </div> <div 
     class="poem deep-blue"> Gözlerinde kaybolmak en büyük özgürlüğüm, Sen benim ömrüme düğümlediğim en güzel kördüğüm. </div>
