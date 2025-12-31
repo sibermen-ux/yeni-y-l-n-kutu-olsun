@@ -117,25 +117,6 @@
     </div>
 
     <div class="poem pink">
-      Yanımda olman her şeyi çözmüyor belki,
-      Ama sensizken hiçbir şey çözülmüyor.
-      Demek ki sen
-      Hayatımın cevabı değil,
-      Anlamısın.
-    </div>
-
-    <div class="poem pink">
-      Seni sevmek kolay değildi,
-      Ama doğruydu.
-      Yorulduk bazen,
-      Kırıldık,
-      Sustuk.
-      Yine de kalmayı seçtik.
-      İşte bu yüzden
-      Aşk dedim adına.
-    </div>
-
-    <div class="poem pink">
       Bir gülüşün var,
       İçimde fırtınaları susturan.
       Ne zaman kaybolsam,
@@ -149,7 +130,6 @@
       Herkes mutlu anları sever,
       Ben seni yorgunken de sevdim.
       Güçlü değilken,
-      Kusurluyken,
       Kendinle bile savaşırken.
       Çünkü aşk,
       En savunmasız hâlde
@@ -171,15 +151,7 @@
       Sen bunu
       Hiç gitmeden öğrettin bana.
     </div>
-
-    <div class="poem pink">
-      Eğer bir gün her şey biterse,
-      Bil ki sevgim bitmiş olmaz.
-      Çünkü ben seni
-      Bir hikâye gibi değil,
-      Bir anlam gibi sevdim.
-    </div>
-    <!-- 💜 MOR ŞİİRLER -->
+    
 
     <div class="poem purple">
       Şehrin üzerine çökmüş kederli bir duman,
@@ -192,7 +164,7 @@
       Sana olan özlemim gibi, karanlığı delip geçen.
       Sen o turuncu şafaksın, gecenin bittiği yerde,
       Ben ise seni bekleyen siyah bir bulut, bu dertli şehirde.
-    </div>
+    </div<div class="poem eternal-love"> Seninle başladı ruhumda en güzel bahar, Varlığın kalbimde sonsuz bir huzur saklar. </div> <div class="poem heart-beat"> Her atışında kalbim sadece adını heceler, Seninle aydınlanır en karanlık geceler. </div> <div class="poem gold-sun"> Güneşten daha sıcak bir gülüşün var senin, Cenneti bulmuş gibiyim yanında, her anındayım teninin. </div> <div class="poem deep-blue"> Gözlerinde kaybolmak en büyük özgürlüğüm, Sen benim ömrüme düğümlediğim en güzel kördüğüm. </div> <div class="poem rose-garden"> Binlerce gül açsa da gönül bahçemde bugün, En nadide çiçeğim sensin, her günüm sana düğün. </div> <div class="poem infinity"> Sınırı yok bu sevginin, ne başı belli ne sonu, Sende buldum ben hayatın en güzel yolunu. </div> <div class="poem soul-mate"> İki beden tek nefes, ruhum seninle tamam, Sen yoksan bu dünyada ben asla yaşayamam. </div> <div class="poem starry-night"> Gökyüzündeki tüm yıldızları toplasam da bir bir, Senin bir bakışındaki ışık hepsine bedeldir. </div> <div class="poem velvet-voice"> Sesin en güzel melodi, kalbimin ritmi sana bağlı, Bu gönül ilk günden beri sadece sana sevdalı. </div> <div class="poem pure-white"> Bembeyaz bir sayfa gibi saf ve temiz sevdamız, Aşkınla yazılıyor bizim en mutlu masalımız. </div> <div class="poem anchor"> Fırtınalar kopsa da sığındığım tek liman sensin, Sen benim bu hayatta aldığım en tatlı nefessin. </div> <div class="poem magic-touch"> Ellerin ellerimde kalsın, hiç bırakma ne olur, Seninle geçen her saniye ruhuma şifa olur. </div> <div class="poem treasure"> Dünyanın tüm hazineleri sönük kalır yanında, Ben seninle zenginim, huzuru buldum canında. </div> <div class="poem mirror"> Gözlerine baktığımda kendimi değil seni görürüm, Senin bir tek damla mutluluğun için ölürüm. </div> <div class="poem home"> Evim sensin, kalbinin o en sıcak köşesi, Sensin bu ömrümün en büyük neşesi. </div> <div class="poem fire"> İçimde sönmeyen bir ateş, sevdanla yanar durur, Adını andığım an kalbim en tatlı ritmi vurur. </div> <div class="poem sky"> Benim gökyüzüm sensin, bulutum da güneşim de, Aşkın bir mühür gibi kazınmış en derinimde. </div> <div class="poem miracle"> Mucizelere inanmazdım seni görene kadar, Şimdi her duamda senin sonsuz varlığın var. </div> <div class="poem wine-red"> Sarhoşum sevginle, dermanım yine sendedir, Bu canın emaneti artık sadece sendedir. </div> <div class="poem lighthouse"> Yolumu aydınlatan o en parlak fener sensin, Hayatımın anlamı, en kıymetli değerisin. </div> <div class="poem butterfly"> Gülüşünü gördüğüm an kelebekler uçar içimde, Sana aşığım ben, en saf, en derin biçimde. </div> <div class="poem diamond"> Paha biçilemez bir mücevher gibisin kalbimde, Her anın hatırası saklı en güzel yerimde. </div> <div class="poem forest"> Kök saldın ruhuma, dev bir çınar gibisin artık, Seninle her şey mümkün, seninle her yol ışık. </div> <div class="poem melody"> En güzel şiirleri kıskandırır senin varlığın, Huzuru sende bulur, biter her türlü darlığım. </div> <div class="poem orbit"> Dünyam senin etrafında döner, başka yol bilmem, Senden başka bir hayali kalbime asla silmem. </div> <div class="poem ocean"> Uçsuz bucaksız bir denizdir sana olan bu aşkım, Varlığının güzelliğine her gün yeniden şaşkınım. </div> <div class="poem secret-garden"> Kimsenin bilmediği o gizli bahçem sensin, Sadece benim olan, ruhuma en çok değensin. </div> <div class="poem silk"> İpek gibi yumuşak, bir dua gibi içten sevgin, Bu koca dünyada yok senin bir benzerin, dengin. </div> <div class="poem sunrise"> Her sabah yeniden doğarım senin o tatlı bakışınla, Isınır soğuk dünyam, aşkının o kutsal akışıyla. </div> <div class="poem together-forever"> Biz bir elmanın iki yarısı, bir ruhun iki yarısıyız, Biz bu sonsuz evrenin en mutlu sevdalılarıyız. </div>
 
     <div class="poem purple">
       Eğer aşk bir yola benziyorsa,
@@ -215,29 +187,6 @@
       Bir ömürlük his oldun.
       Mazeretim sensin,
       Her duyguma sebep.
-    </div>
-
-    <div class="poem purple">
-      Seni sevmek beni daha iyi biri yapmadı,
-      Ama daha dürüst biri yaptı.
-      Kendime karşı bile.
-      Eksiklerimle kalmayı,
-      Kusurlarımla sevilmeyi
-      Seninle öğrendim.
-    </div>
-
-    <div class="poem purple">
-      Yanımda olman her şeyi çözmüyor,
-      Ama yokluğun her şeyi zorlaştırıyor.
-      Demek ki aşk mucize değil,
-      Hayatı katlanılır hâle getirmek.
-    </div>
-
-    <div class="poem purple">
-      Bazen konuşacak bir şey bulamıyoruz,
-      Ama gitmek de istemiyoruz.
-      İşte orası aşkın başladığı yer.
-      Sessizliğin kaçış olmadığı anlar.
     </div>
 
     <!-- 💌 GÜZEL SÖZLER -->
